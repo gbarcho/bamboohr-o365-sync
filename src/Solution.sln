@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyncWebApp", "SyncWebApp\SyncWebApp.csproj", "{A951DA46-254F-4B2C-8921-60198DD41275}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A951DA46-254F-4B2C-8921-60198DD41275}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A951DA46-254F-4B2C-8921-60198DD41275}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A951DA46-254F-4B2C-8921-60198DD41275}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A951DA46-254F-4B2C-8921-60198DD41275}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABCF151E-D4BA-4CDE-97EF-A6E2FBE17213}
+	EndGlobalSection
+EndGlobal
