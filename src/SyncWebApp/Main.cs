@@ -21,7 +21,11 @@ namespace SyncWebApp
         [FunctionName("Function2")]
         public static IActionResult Get([HttpTrigger(AuthorizationLevel.Anonymous, "get")] HttpRequest req)
         {
+
+
             return new OkObjectResult(new { message = "Hello world" });
+
+
         }
 
     }

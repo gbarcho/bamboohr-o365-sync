@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyncWebApp", "SyncWebApp\SyncWebApp.csproj", "{A951DA46-254F-4B2C-8921-60198DD41275}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyncWebApp", "src\SyncWebApp\SyncWebApp.csproj", "{A951DA46-254F-4B2C-8921-60198DD41275}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
